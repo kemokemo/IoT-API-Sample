@@ -10,6 +10,8 @@
 * [gin-gonicライブラリ](https://github.com/gin-gonic/gin)を用いたREST APIサービスを作る
 * センサー読み取り値をREST APIで公開する（JSON over HTTP）
 
+Qiitaの[「Gobotの招きにあひて、徒然なるままにArduinoとRaspberry PiでIoTっぽいことをやってみるなり」](http://qiita.com/KemoKemo/items/10fb644f9d359c35646a)という記事との連動リポジトリとなっております。
+
 ## 各ディレクトリの説明
 
 * api
