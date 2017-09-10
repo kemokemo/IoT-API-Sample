@@ -1,0 +1,9 @@
+{
+  "sensor-list": [
+    {
+      "number": 1,
+      "name": "Kitchen",
+      "temp_c": 25.86
+    }
+  ]
+}
