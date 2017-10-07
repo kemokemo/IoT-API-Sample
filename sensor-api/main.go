@@ -13,7 +13,7 @@ const (
 )
 
 type sensorData struct {
-	SensorList []sensor `json:"sensor-list"`
+	SensorList []sensor `json:"sensor_list"`
 }
 
 type sensor struct {
